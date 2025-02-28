@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@stripe/react-stripe-js": "^3.1.1",
+    "@stripe/stripe-js": "^5.5.0",
+    "lottie-react": "^2.4.1",
+    "lottie-web": "^5.12.2",
+    "micro": "^10.0.0",
+    "micro-cors": "0.1.1",
+    "next": "15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-lottie": "^1.2.10",
+    "stripe": "^17.5.0"
+  }
+}
